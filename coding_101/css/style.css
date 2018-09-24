@@ -1,0 +1,39 @@
+body {
+  background-color: #283e3e;
+  color: white;
+}
+h1 {
+  color:red;
+  text-align: center;
+  font-family:sans-serif;
+  height: 10px;
+}
+h2 {
+  text-align: center;
+  height: 10px;
+}
+#address {
+  text-align: center;
+  border-bottom: solid;
+}
+.seoimg {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+  padding: 20px;
+}
+.skills {
+  font-size: 14px;
+  font-style: italic;
+}
+#about {
+  display: block;
+  text-align: center;
+  width: 800px;
+}
+.second {
+  font-weight: bold;
+  font-size: 14px;
+  height: 2px;
+
+}
